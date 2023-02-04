@@ -1,0 +1,15 @@
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\obj\Debug\net6.0\whileDowhile.csproj.AssemblyReference.cache
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\obj\Debug\net6.0\whileDowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\obj\Debug\net6.0\whileDowhile.AssemblyInfoInputs.cache
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\obj\Debug\net6.0\whileDowhile.AssemblyInfo.cs
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\obj\Debug\net6.0\whileDowhile.csproj.CoreCompileInputs.cache
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\bin\Debug\net6.0\whileDowhile.exe
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\bin\Debug\net6.0\whileDowhile.deps.json
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\bin\Debug\net6.0\whileDowhile.runtimeconfig.json
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\bin\Debug\net6.0\whileDowhile.dll
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\bin\Debug\net6.0\whileDowhile.pdb
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\obj\Debug\net6.0\whileDowhile.dll
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\obj\Debug\net6.0\refint\whileDowhile.dll
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\obj\Debug\net6.0\whileDowhile.pdb
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\obj\Debug\net6.0\whileDowhile.genruntimeconfig.cache
+C:\Users\anaibarinas\source\repos\C-\C#\whileDowhile\obj\Debug\net6.0\ref\whileDowhile.dll
