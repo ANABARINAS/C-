@@ -20,6 +20,13 @@ namespace SwitchCase
                 case 4:
                     Console.WriteLine("eligió 3 o 4");
                     break;
+                case < 0:
+                case > 100:
+                    Console.WriteLine("fuera de rango");
+                    break;
+                case > 5 and < 9:
+                    Console.WriteLine("eligió entre 5 y 9");
+                    break;
                 default:
                     Console.WriteLine("inválido");
                     break;

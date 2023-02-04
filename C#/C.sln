@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones", "Funciones\Func
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If", "If\If.csproj", "{7D622E71-57DC-4FC3-A8EB-3A67735F7F30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{44ED06FF-96F5-4AAB-8D9C-5314CA405692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{44ED06FF-96F5-4AAB-8D9C-5314CA405692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos", "Arreglos\Arreglos.csproj", "{590BCB6C-4B5A-4DE2-9D25-3545311D713C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{44ED06FF-96F5-4AAB-8D9C-5314CA405692}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44ED06FF-96F5-4AAB-8D9C-5314CA405692}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44ED06FF-96F5-4AAB-8D9C-5314CA405692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590BCB6C-4B5A-4DE2-9D25-3545311D713C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590BCB6C-4B5A-4DE2-9D25-3545311D713C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590BCB6C-4B5A-4DE2-9D25-3545311D713C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590BCB6C-4B5A-4DE2-9D25-3545311D713C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
