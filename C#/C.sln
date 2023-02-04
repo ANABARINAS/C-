@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos", "Arreglos\Arregl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileDowhile", "whileDowhile\whileDowhile.csproj", "{3190734E-48FA-4BF6-9C4B-DBBE0BBFC894}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For", "For\For.csproj", "{AAA2884A-D7BC-486C-8D03-602FFCE78118}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3190734E-48FA-4BF6-9C4B-DBBE0BBFC894}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3190734E-48FA-4BF6-9C4B-DBBE0BBFC894}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3190734E-48FA-4BF6-9C4B-DBBE0BBFC894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA2884A-D7BC-486C-8D03-602FFCE78118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA2884A-D7BC-486C-8D03-602FFCE78118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA2884A-D7BC-486C-8D03-602FFCE78118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA2884A-D7BC-486C-8D03-602FFCE78118}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
