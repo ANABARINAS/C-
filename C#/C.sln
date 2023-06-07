@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If", "If\If.csproj", "{7D62
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{44ED06FF-96F5-4AAB-8D9C-5314CA405692}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos", "Arreglos\Arreglos.csproj", "{590BCB6C-4B5A-4DE2-9D25-3545311D713C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arreglos", "Arreglos\Arreglos.csproj", "{590BCB6C-4B5A-4DE2-9D25-3545311D713C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileDowhile", "whileDowhile\whileDowhile.csproj", "{3190734E-48FA-4BF6-9C4B-DBBE0BBFC894}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "whileDowhile", "whileDowhile\whileDowhile.csproj", "{3190734E-48FA-4BF6-9C4B-DBBE0BBFC894}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For", "For\For.csproj", "{AAA2884A-D7BC-486C-8D03-602FFCE78118}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For", "For\For.csproj", "{AAA2884A-D7BC-486C-8D03-602FFCE78118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesYObjetos", "ClasesYObjetos\ClasesYObjetos.csproj", "{F34236CB-18FB-4189-8807-7BACE41A2B6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{AAA2884A-D7BC-486C-8D03-602FFCE78118}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAA2884A-D7BC-486C-8D03-602FFCE78118}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAA2884A-D7BC-486C-8D03-602FFCE78118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34236CB-18FB-4189-8807-7BACE41A2B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34236CB-18FB-4189-8807-7BACE41A2B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34236CB-18FB-4189-8807-7BACE41A2B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34236CB-18FB-4189-8807-7BACE41A2B6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
